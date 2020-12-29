@@ -1,0 +1,19 @@
+$xxxs-spacing: 0.375rem; //6px
+$xxs-spacing: 0.875rem; //14px
+$xs-spacing: 1.313rem; //21px
+$s-spacing: 1.75rem; //28px
+$m-spacing: 2.375rem; //38px
+$l-spacing: 3.125rem; //50px
+$xl-spacing: 4.188rem; //67px
+$xxl-spacing: 5.625rem; //90px
+@media (min-width:60rem){
+    $xxxs-spacing: 0.5rem; //8px
+    $xxs-spacing: 1rem; //16px
+    $xs-spacing: 1.5rem; //24px
+    $s-spacing: 2.25rem; //36px
+    $m-spacing: 3.375rem; //54px
+    $l-spacing: 5.063rem; //81px
+    $xl-spacing: 7.5rem; //120px
+    $xxl-spacing: 11.938rem; //191px
+}
+
