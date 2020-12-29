@@ -7,3 +7,16 @@ header {
 ::-webkit-scrollbar {
    display: none;
 }
+
+.row-full{
+    width: 100%;
+    height: auto;
+   }
+
+
+.background_red{
+       background-image: url("/src/assets/background_red.svg");
+   }
+   .background_green{
+       background-image: url("/src/assets/background_green.svg");
+   }
