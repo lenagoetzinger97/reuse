@@ -1,17 +1,20 @@
+<!-- neue components in <template> und in <script> (2x!) ergänzen -->
 <template>
   <div id="app">
-    <img alt="Vue logo" src="./assets/logo.png">
-    <HelloWorld msg="Welcome to Your Vue.js App"/>
+    <Intro msg="Das ist ein Test"/>
+    <Data/>
   </div>
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
+import Data from './components/Data.vue'
+import Intro from './components/Intro.vue'
 
 export default {
   name: 'App',
   components: {
-    HelloWorld
+    Data,
+    Intro
   }
 }
 </script>
