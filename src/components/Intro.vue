@@ -1,7 +1,7 @@
 <template>
   <div>
     <h1>ReUse und Secondhand</h1>
-    <span class="hero-subline">in Deutschland</span>
+    <p class="hero-subline">in Deutschland</p>
     <p class="large text-center">Einstellungen zum Thema Abfallvermeidung und Nachhaltigkeit</p>
     <p class="text-center">Semesterarbeit im Kurs Interaktives Informationsdesign des Fachbereichs Onlinemedien 2021
       von Nathalie Wiesler, Ronja Walter, Lena Götzinger, Lena Frerichs und Julia Fischinger </p>
@@ -21,9 +21,9 @@
     <h2 class="rubbish">535 kg</h2>
     <p class="rubbish">Pro-Kopf-Abfallaufkommen</p>
 
-    <p class="topline topline-white">Wer hat die Stuide durchgeführt?</p>
-    <h2>Headline</h2>
-    <p class="large">Headline</p>
+    <p class="topline topline-white text-center">Wer hat die Stuide durchgeführt?</p>
+    <h2 class="text-center">Die Studie</h2>
+    <p class="large">Herausgeber</p>
     <p>Die dargestellten Inhalte sind Teil einer empirischen Studie aus dem Jahr 2020, welche vom Wuppertal Institut für
       Klima, Umwelt und Energie durchgeführt wurde. Die Erhebung erfolgte in Zusammenarbeit mit dem
       Befragungsunternehmen
@@ -35,7 +35,7 @@
       Geschlecht, Region und Konsumverhalten hinreichend unterscheiden werden kann. </p>
 
     <p class="topline topline-green">Gruppierte Vergleiche </p>
-    <h2>Zielgruppen</h2>
+    <h2 class="text-center">Zielgruppen</h2>
     <p class="text-center large">Der Grad der Zustimmung dieser Aussagen wird in der folgenden Datenansicht in drei
       Kategorien betrachtet. </p>
 
@@ -60,15 +60,6 @@
 
   </div>
 </template>
-
-<script>
-  export default {
-    name: 'HelloWorld',
-    props: {
-      msg: String
-    }
-  }
-</script>
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 
