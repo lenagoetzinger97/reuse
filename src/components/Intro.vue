@@ -71,10 +71,7 @@
 </script>
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->
-  <style lang="scss" scoped>
-@import "../scss/style/base_styles.scss";
-@import '../scss/style/_spacing.scss'; 
-@import '../scss/style/_colors.scss';
-@import '../scss/style/_fonts.scss';
-@import '../scss/style/base-style.scss';
+
+<style lang="scss" scoped>
+  @import "../scss/main.scss";
 </style>
