@@ -20,3 +20,28 @@ header {
    .background_green{
        background-image: url("/src/assets/background_green.svg");
    }
+
+.card {
+
+     box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+     transition: 0.3s;
+     margin: 1.063em;
+     padding: 4em;
+     padding-bottom: 0em;
+     background: linear-gradient(104.63deg, #FFFFFF 0%, #FEF9F5 74.71%);
+   }
+
+.card:hover {
+     box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+   }
+
+.cardtext {
+   padding: 0em 0em 2em 0em;
+}
+/*Gridsystem*/
+
+.zielgruppe{
+  display: grid;
+  grid-template-columns: 2fr 2fr 2fr;
+
+}

@@ -62,26 +62,43 @@
     <p class="text-center large">Der Grad der Zustimmung dieser Aussagen wird in der folgenden Datenansicht in drei
       Kategorien betrachtet. </p>
 
-    <!--SVG-->
-    <h3>Zielgruppen</h3>
-    <p>In einem Vergleich werden die unter 30 und über 30-jährigen Teilnehmer der Studie unterschieden.</p>
-    <p class="link">mehr erfahren</p>
+<div class="zielgruppe">
 
-    <!--SVG-->
-    <h3>Lokalisation</h3>
-    <p>Die Personen werden aufgrund ihres Wohnorts zusammengefasst, indem Personen aus dem Westen und Osten Deutschlands
-      jeweils eine Gruppe bilden.</p>
-    <p class="link">mehr erfahren</p>
+  <div class="card">
+    <img src="../assets/zielgruppe.svg" alt="Zielgruppe">
+      <div class="cardtext">
+        <h3>Zielgruppen</h3>
+        <p>In einem Vergleich werden die unter 30 und über 30-jährigen Teilnehmer der Studie unterschieden.</p>
+        <p class="link">mehr erfahren</p>
+      </div>
+  </div>
 
-    <!--SVG-->
-    <h3>Konsumart</h3>
-    <p>Die Teilnehmer der Studie sind gruppiert, je nachdem, ob sie Käufer:innen von gebrauchten Waren sind oder nicht.
-      Hier wird also hinsichtlich ihres Konsumverhaltens unterscheiden. </p>
-    <p class="link">mehr erfahren</p>
+  <div class="card">
+    <img src="../assets/karte.svg" alt="Karte">
+      <div class="cardtext">
+        <h3>Lokalisation</h3>
+        <p>Die Personen werden aufgrund ihres Wohnorts zusammengefasst, indem Personen aus dem Westen und Osten Deutschlands
+        jeweils eine Gruppe bilden.</p>
+        <p class="link">mehr erfahren</p>
+      </div>
+  </div>
+
+  <div class="card">
+    <img src="../assets/konsum.svg" alt="Konsumart">
+      <div class="cardtext">
+        <h3>Konsumart</h3>
+        <p>Die Teilnehmer der Studie sind gruppiert, je nachdem, ob sie Käufer:innen von gebrauchten Waren sind oder nicht.
+        Hier wird also hinsichtlich ihres Konsumverhaltens unterscheiden. </p>
+        <p class="link">mehr erfahren</p>
+      </div>
+  </div>    
+</div>
+
 
     <p>zu den Daten</p>
 
-  </div>
+
+</div>
 </template>
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->
