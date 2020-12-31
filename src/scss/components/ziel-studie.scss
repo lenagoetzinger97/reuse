@@ -1,0 +1,27 @@
+.container-ziel-studie{
+    width: 100%;
+    height: auto;
+    display: flex;
+    justify-content:space-between
+}
+.container-text{
+    max-width: 30.563em;
+    margin-left: 20%;
+}
+.container-rubbish{
+    position: relative;
+    width: 42em;
+    height: auto;
+    img:first-child{
+        position: absolute;
+        left: 80px;
+        z-index: 1; 
+    }
+    img:last-child{
+        position: absolute;
+        top:-130px;
+        right: 0;
+        width: 100%;
+        z-index: 0; 
+     }
+}

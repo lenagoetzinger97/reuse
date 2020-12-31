@@ -1,6 +1,6 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Jost:wght@400;600;700&display=swap');
-
+/*überarbeiten*/
 div{
     font-family: 'Jost', sans-serif;
     color: $color-grey-900;
@@ -12,10 +12,11 @@ h1,h2,h3,h4,h5{
 h1{
     font-size: 6rem;
     text-align: center;
-    text-shadow: 0.125rem 0.125rem $color-terracotta-600;
+    margin: $xxl-spacing auto 0 auto;
 }
 h2{
     font-size: 2.25rem;
+    margin:$xxs-spacing 0 $s-spacing 0;
 }
 h3{
     font-size: 1.75rem; //32px
@@ -31,29 +32,27 @@ h5{
 */
 p{
     font-size: 1.125rem;
-    line-height: 1.625;
+    line-height: 1.5;
+    margin: 0;
 }
 .p-large{
     font-size: 1.375rem;
+    margin: 0 auto;
 }
 .p-small{
     font-size: 0.875rem;
 }
-
-
 .hero-subline{
     font-size: 2.25rem;
     text-align: center;
+    margin: 0 auto $xxs-spacing auto;
 }
-
 .text-center{
     text-align: center;
 }
-
 .text-bubbles{
     color: $color-beige-900;
 }
-
 .topline{
     font-size: 1rem;
 }
@@ -63,22 +62,7 @@ p{
 .topline-white{
     color: white;
 }
-
-.rubbish{
-    color: white;
-    text-align: center;
-}
 .link{
     color: $color-forest-500;
     text-decoration: underline;
-}
-
-
-@media (min-width:60rem){
-    h1{
-        font-size: 3rem;
-    }
-    h2{
-        font-size: 2.5rem;
-    }
 }
