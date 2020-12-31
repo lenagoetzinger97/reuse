@@ -1,0 +1,40 @@
+.background_red{
+    background-image: url("http://127.0.0.1:5500/src/assets/background_red.svg");
+
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+
+.row-illus {
+    display: flex;
+    height: auto;
+
+    img:first-child {
+        position: relative;
+        left: 80px;
+    }
+
+    img:last-child {
+        position: relative;
+        margin-left: 35%;
+    }
+}
+
+
+
+
+.container-text-studie {
+    display: flex;
+
+
+    .col:first-child {
+        max-width: 30.563em;
+        margin-left: 20%;
+    }
+    .col:last-child{
+        max-width: 30.563em;
+        margin-left: 2%;
+    }
+}
