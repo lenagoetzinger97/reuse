@@ -22,28 +22,30 @@
       <div class="container-text">
         <p class="topline topline-green">Wie stehen Deutsche zu Klimaschutz und Nachhaltigkeit?</p>
         <h2>Ziel der Studie</h2>
-        <p>In Deutschland verursacht jeder Bewohner durchschnittlich 535 kg Abfälle pro Jahr. Dazu kommen Abfälle, die
-          bei
-          der Produktion dieser Artikel anfallen. Insgesamt beläuft sich das Pro-Kopf-Abfallaufkommen der Deutschen auf
-          2748
-          kg jährlich. Die zugrunde liegende Studie versucht, die Beweggründe für den Umgang mit Secondhand-Produkten zu
-          verstehen,
-          indem sie die allgemeine Einstellung zu den Themen Klimaschutz und Nachhaltigkeit abfragt.
+        <p>In Deutschland verursacht jeder Bewohner durchschnittlich 535 kg Abfälle pro Jahr. Dazu kommen Abfälle, die bei
+          der Produktion dieser Artikel anfallen. Insgesamt beläuft sich das Pro-Kopf-Abfallaufkommen der Deutschen auf 2748
+          kg jährlich.
+        </p>
+        <br>
+        <p>Die zugrunde liegende Studie versucht, die Beweggründe für den Umgang mit Secondhand-Produkten zu verstehen,
+          indem sie die allgemeine Einstellung zu den Themen Klimaschutz und Nachhaltigkeit abfragt. 
         </p>
       </div>
+     
       <div class="container-rubbish">
-        <img src="../assets/trash.svg" alt="Hintergrundfläche grün">
-        <img src="../assets/background-green.png" alt="Hintergrundfläche grün">
+        <img src="../assets/trash.svg" alt="Mülleimer">
+        <!-- <img src="../assets/background-green.png" alt="Hintergrundfläche grün">-->
+      </div> 
+    </div>
+    <div class="container-studie">
+      
+      <div class="background-red">
+        <img src="../assets/background-red.png" alt="Hintergrundfläche rot">
       </div>
-    </div>
-
-
-
-    <div class="container-stuide background_red">
-    <div class="row-illus">
-      <img src="../assets/herausgeber.svg" alt="Herausgeber">
-      <img src="../assets/befragte.svg" alt="Befragte">
-    </div>
+      <div class="row-illus">
+        <img src="../assets/herausgeber.svg" alt="Herausgeber">
+        <img src="../assets/befragte.svg" alt="Befragte">
+      </div>
       <div>
         <p class="topline topline-white text-center">Wer hat die Stuide durchgeführt?</p>
         <h2 class="text-center">Die Studie</h2>
@@ -51,27 +53,21 @@
         <div class="container-text-studie">
           <div class="col">
             <p class="p-large">Herausgeber</p>
-            <p>Die dargestellten Inhalte sind Teil einer empirischen Studie aus dem Jahr 2020, welche vom Wuppertal
-              Institut
-              für
-              Klima, Umwelt und Energie durchgeführt wurde. Die Erhebung erfolgte in Zusammenarbeit mit dem
-              Befragungsunternehmen
-              YouGov und wurde von Ebay Kleinanzeigen finanziell unterstützt. </p>
+            <p>Die dargestellten Inhalte sind Teil einer empirischen Studie aus dem Jahr 2020, welche vom Wupperta
+              Institut für Klima, Umwelt und Energie durchgeführt wurde. Die Erhebung erfolgte in Zusammenarbeit mit dem
+              Befragungsunternehmen YouGov und wurde von Ebay Kleinanzeigen finanziell unterstützt. 
+            </p>
           </div>
           <div class="col">
             <p class="p-large">Methodik und Teilnehmer</p>
-            <p>Die Daten der Studie wurden mittels einer Online-Befragung erhoben. Die Teilnehmer konnten den Aussagen
-              entweder
-              voll und ganz zustimmen oder eher zustimmen.</p>
+            <p>Die Daten der Studie wurden mittels einer Online-Befragung erhoben. Die Teilnehmer konnten den Aussagen entweder voll und ganz zustimmen oder eher zustimmen.</p>
             <p>An der Studie nahmen insgesamt 1.023 Personen aus Deutschland teil, sodass die Stichprobe in Hinblick auf
-              Alter,
-              Geschlecht, Region und Konsumverhalten hinreichend unterscheiden werden kann. </p>
+              Alter, Geschlecht, Region und Konsumverhalten hinreichend unterscheiden werden kann.
+            </p>
           </div>
         </div>
       </div>
     </div>
-
-
     <!--Lena-->
     <p class="topline topline-green text-center">Gruppierte Vergleiche </p>
     <h2 class="text-center">Zielgruppen</h2>

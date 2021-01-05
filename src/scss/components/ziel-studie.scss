@@ -2,7 +2,8 @@
     width: 100%;
     height: auto;
     display: flex;
-    justify-content: space-between
+    justify-content: space-between;
+    background: url(/src/assets/background-green.png);
 }
 
 .container-text {
@@ -17,13 +18,13 @@
 
     img:first-child {
         position: absolute;
-        left: 80px;
-        z-index: 1;
+        left: 5em;
+        z-index: 1; 
     }
 
     img:last-child {
         position: absolute;
-        top: -130px;
+        top:-8.125em;
         right: 0;
         width: 100%;
         z-index: 0;

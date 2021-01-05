@@ -1,7 +1,7 @@
 <!-- neue components in <template> und in <script> (2x!) ergänzen -->
 <template>
   <div id="app">
-    <Intro msg="Das ist ein Test"/>
+    <Intro/>
     <Data/>
   </div>
 </template>
@@ -18,7 +18,3 @@ export default {
   }
 }
 </script>
-
-<style lang="scss" scoped>
-  @import "./scss/main.scss";
-</style>
