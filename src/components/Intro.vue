@@ -17,7 +17,7 @@
         <img src="../assets/people.svg" alt="Menge von Leuten">
       </div>
     </div>
-
+<div class="background-red">
     <div class="container-ziel-studie">
       <div class="container-text">
         <p class="topline topline-green">Wie stehen Deutsche zu Klimaschutz und Nachhaltigkeit?</p>
@@ -28,20 +28,19 @@
         </p>
         <br>
         <p>Die zugrunde liegende Studie versucht, die Beweggründe für den Umgang mit Secondhand-Produkten zu verstehen,
-          indem sie die allgemeine Einstellung zu den Themen Klimaschutz und Nachhaltigkeit abfragt. 
+          indem sie die allgemeine Einstellung zu den Themen Klimaschutz und Nachhaltigkeit abfragt.
         </p>
       </div>
-     
+
       <div class="container-rubbish">
         <img src="../assets/trash.svg" alt="Mülleimer">
         <!-- <img src="../assets/background-green.png" alt="Hintergrundfläche grün">-->
-      </div> 
+      </div>
     </div>
     <div class="container-studie">
-      
-      <div class="background-red">
-        <img src="../assets/background-red.png" alt="Hintergrundfläche rot">
-      </div>
+
+
+
       <div class="row-illus">
         <img src="../assets/herausgeber.svg" alt="Herausgeber">
         <img src="../assets/befragte.svg" alt="Befragte">
@@ -55,7 +54,7 @@
             <p class="p-large">Herausgeber</p>
             <p>Die dargestellten Inhalte sind Teil einer empirischen Studie aus dem Jahr 2020, welche vom Wupperta
               Institut für Klima, Umwelt und Energie durchgeführt wurde. Die Erhebung erfolgte in Zusammenarbeit mit dem
-              Befragungsunternehmen YouGov und wurde von Ebay Kleinanzeigen finanziell unterstützt. 
+              Befragungsunternehmen YouGov und wurde von Ebay Kleinanzeigen finanziell unterstützt.
             </p>
           </div>
           <div class="col">
@@ -68,12 +67,14 @@
         </div>
       </div>
     </div>
+
     <!--Lena-->
     <p class="topline topline-green text-center">Gruppierte Vergleiche </p>
     <h2 class="text-center">Zielgruppen</h2>
+
     <p class="text-center p-large">Der Grad der Zustimmung dieser Aussagen wird in der folgenden Datenansicht in drei
       Kategorien betrachtet.</p>
-
+  </div>
     <div class="zielgruppe">
       <div class="card">
         <img src="../assets/zielgruppe.svg" alt="Zielgruppe">

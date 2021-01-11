@@ -1,11 +1,13 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Jost:wght@400;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@300;400&display=swap');
 /*überarbeiten*/
 div{
     font-family: 'Jost', sans-serif;
     color: $color-grey-900;
 }
 h1,h2,h3,h4,h5{
+    font-family: 'Merriweather', serif;
     line-height: 1.2;
     font-weight: bold;
 }
