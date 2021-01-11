@@ -16,7 +16,20 @@
       <div class="row-full">
         <img src="../assets/people.svg" alt="Menge von Leuten">
       </div>
+      <div class="jacket">
+          <img src="../assets/jacket.svg" alt="Jacke">
+      </div>
+      <div class="cap">
+        <img src="../assets/cap.svg" alt="Hut">
+      </div>
+      <div class="shirt">
+        <img src="../assets/shirt.svg" alt="Shirt">
+      </div>
+      <div class="shoe">
+        <img src="../assets/shoe.svg" alt="Schuh">
+      </div>
     </div>
+    
 <div class="background-red">
     <div class="container-ziel-studie">
       <div class="container-text">

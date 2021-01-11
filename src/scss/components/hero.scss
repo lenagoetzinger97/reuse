@@ -14,3 +14,37 @@
         width: 100%;
     }
 }
+.jacket{
+      img{
+        width: auto;
+        position: absolute;
+        top: 71.25em;
+        left: 55em;
+      }
+}
+.cap{
+      img{
+        width: auto;
+        position: absolute;
+        top: 74.375em;
+        left: 78.125em;
+      }
+}
+.shirt{
+      img{
+        width: auto;
+        position: absolute;
+        top: 72.813em;
+        left: 20em;
+        transform: rotate(-20deg);
+      }
+}
+.shoe{
+      img{
+        width: auto;
+        position: absolute;
+        top: 72.813em;
+        left: 43.125em;
+        transform: rotate(20deg);
+      }
+}
