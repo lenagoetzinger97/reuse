@@ -29,7 +29,7 @@
 
       <div class="container-rubbish">
         <img src="../assets/trash.svg" alt="Mülleimer">
-        <!-- <img src="../assets/background-green.png" alt="Hintergrundfläche grün">-->
+         <img src="../assets/background-green.png" alt="Hintergrundfläche grün">
       </div>
     </div>
     <div class="container-studie">
@@ -37,8 +37,8 @@
 
 
       <div class="row-illus">
-        <img src="../assets/herausgeber.svg" alt="Herausgeber">
-        <img src="../assets/befragte.svg" alt="Befragte">
+        <img src="../assets/herausgeber.svg" alt="Herausgeber" align="top">
+        <img src="../assets/befragte.svg" alt="Befragte" align="right">
       </div>
       <div>
         <p class="topline topline-white text-center">Wer hat die Stuide durchgeführt?</p>
