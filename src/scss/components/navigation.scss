@@ -1,0 +1,55 @@
+.navigation{
+    width: 4.25em;
+    height: 100vh;
+    background-color: $color-green-100;
+    border-radius: 5px 0px 0px 5px;
+    border-left: 5px solid $color-green-500;
+}
+.navigation:hover{
+    width: auto;
+    transition: width 2s ease-in;
+    a {
+        display: inline;
+    }
+}
+.container-nav-links{
+    margin: 1em 0em;
+    padding:0;
+}
+//wenn sichtbar
+li[role=menuitem]{
+    list-style: none;
+    margin:1.5em 0.5em 0 0.5em;
+    padding: 0.75em;
+    border-radius: 0.75em;
+    height: auto;
+    img{
+        margin-right: 1em;
+    }
+    a {
+        display: none;
+        color: $color-grey-700;
+        text-decoration: none;
+    } 
+}
+li:hover{
+    border-radius:12px;
+    background-color: $color-green-200;
+    a {
+        color: $color-green-600; 
+        img{
+            fill: rebeccapurple;
+        }
+    }
+}
+.sticky {
+	position: fixed;
+    top: 0;
+    right: 0;
+    z-index: 3;
+}
+hr{
+    border: 1px solid $color-grey-200;
+}
+
+

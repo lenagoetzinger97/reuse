@@ -1,5 +1,55 @@
 <template>
   <div>
+    <div> 
+      <svg style="display:none;">
+        <symbol id="icon-nav-circle" xmlns="http://www.w3.org/2000/svg"><width="20" height="20" fill="none" xmlns="http://www.w3.org/2000/svg"><circle cx="10" cy="10" r="10" fill="#CFD59F"/>
+        </symbol>
+        <symbol id="icon-nav-circle" xmlns="http://www.w3.org/2000/svg"><width="7" height="10" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M5.5 1L1 5l4.5 4" stroke="#fff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+        </symbol>
+        
+      </svg>
+      <nav class="navigation sticky" role="navigation">
+        <ul class="container-nav-links" role="menubar">
+          <li role="menuitem">
+            <img src="../assets/icon-goal.svg" alt="Icon zurück zum Anfang">
+            <a class="p-large" href="#">
+            Zum Anfang</a>              
+          </li>
+          <hr>
+          <li role="menuitem">
+            <img src="../assets/icon-goal.svg" alt="Icon Ziel der Studie">
+            <a class="p-large" href="https://www.hochschwarzwald.de/Schneebericht/Breitnau">
+            Ziel der Studie</a>              
+          </li>
+          <li role="menuitem">
+            <img src="../assets/icon-herausgeber.svg" alt="Icon Ziel der Studie">
+            <a class="p-large" href="https://www.hochschwarzwald.de/Schneebericht/Eisenbach">
+            Herausgeber</a>
+          </li>
+          <li class="current-page" role="menuitem">
+            <img src="../assets/icon-zielgruppen.svg" alt="Icon Ziel der Studie">
+            <a class="p-large" href="#">
+            Zielgruppen</a>
+          </li>
+          <li role="menuitem">
+            <img src="../assets/icon-daten.svg" alt="Icon Ziel der Studie">
+            <a class="p-large" href="https://www.hochschwarzwald.de/Schneebericht/Friedenweiler">
+            Daten</a>
+          </li>
+          <li role="menuitem">
+            <img src="../assets/icon-interpretationen.svg" alt="Icon Ziel der Studie">
+            <a class="p-large" href="https://www.hochschwarzwald.de/Schneebericht/Haeusern">
+            Interpretationen</a>
+          </li>
+          <hr>
+          <li role="menuitem">
+            <img src="../assets/icon-impressum.svg" alt="Icon Ziel der Studie">
+            <a class="p-large" href="https://www.hochschwarzwald.de/Schneebericht/Hinterzarten">
+            Impressum</a>
+          </li>
+        </ul>
+      </nav>
+    </div>
     <div>
       <h1>ReUse und Secondhand</h1>
       <div class="container-herotext">
