@@ -22,13 +22,8 @@
       <div class="container-text">
         <p class="topline topline-green">Wie stehen Deutsche zu Klimaschutz und Nachhaltigkeit?</p>
         <h2>Ziel der Studie</h2>
-        <p>In Deutschland verursacht jeder Bewohner durchschnittlich 535 kg Abfälle pro Jahr. Dazu kommen Abfälle, die bei
-          der Produktion dieser Artikel anfallen. Insgesamt beläuft sich das Pro-Kopf-Abfallaufkommen der Deutschen auf 2748
-          kg jährlich.
-        </p>
-        <br>
         <p>Die zugrunde liegende Studie versucht, die Beweggründe für den Umgang mit Secondhand-Produkten zu verstehen,
-          indem sie die allgemeine Einstellung zu den Themen Klimaschutz und Nachhaltigkeit abfragt.
+          indem sie die allgemeine Einstellung zu den Themen Klimaschutz und Nachhaltigkeit abfragt und diese in Beziehung zu dem angebenen Verhalten der Befragten setzt.
         </p>
       </div>
 
@@ -51,7 +46,7 @@
 
         <div class="container-text-studie">
           <div class="col">
-            <p class="p-large">Herausgeber</p>
+            <p class="p-large">Rahmenbedingungen</p>
             <p>Die dargestellten Inhalte sind Teil einer empirischen Studie aus dem Jahr 2020, welche vom Wupperta
               Institut für Klima, Umwelt und Energie durchgeführt wurde. Die Erhebung erfolgte in Zusammenarbeit mit dem
               Befragungsunternehmen YouGov und wurde von Ebay Kleinanzeigen finanziell unterstützt.
@@ -74,6 +69,7 @@
 
     <p class="text-center p-large">Der Grad der Zustimmung dieser Aussagen wird in der folgenden Datenansicht in drei
       Kategorien betrachtet.</p>
+      <br>
   </div>
     <div class="zielgruppe">
       <div class="card">

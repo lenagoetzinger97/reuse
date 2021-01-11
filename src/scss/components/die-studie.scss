@@ -1,11 +1,13 @@
 .container-studie{
     position: relative;
+    margin-top: 20em;
     margin-bottom:10em;
 }
 .background-red{
     width: 100%;
     background-position: absolute;
     background-image: url(../assets/background-red.png);
+    background-repeat: no-repeat;
 }
 .row-illus {
     height: auto;
